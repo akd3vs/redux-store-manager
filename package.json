@@ -34,6 +34,6 @@
     "webpack": "^3.6.0"
   },
   "dependencies": {
-    "redux": "^2.2.1"
+    "redux": "^4"
   }
 }
